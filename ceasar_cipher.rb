@@ -1,3 +1,7 @@
+#This is only a general version without z to a cycling, maybe add it later...
+
+
+
 def ceasar_cipher    #the cipher itself 
   puts "Your text?"
   text = gets.chomp
@@ -26,6 +30,3 @@ end
 result.join(" ")
 end
 
-ceasar_cipher
-
-#This is only a general version without z to a cycling maybe add it later
